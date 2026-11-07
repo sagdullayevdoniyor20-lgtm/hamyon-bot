@@ -1,0 +1,4 @@
+.env
+xarajat.db
+xarajat.db-*
+node_modules/

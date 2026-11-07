@@ -1,0 +1,15 @@
+{
+  "name": "hamyon-bot",
+  "version": "1.0.0",
+  "description": "Telegram'da xarajatlarni hisoblaydigan bot",
+  "private": true,
+  "type": "module",
+  "main": "bot.js",
+  "engines": {
+    "node": ">=22.13"
+  },
+  "scripts": {
+    "start": "node bot.js",
+    "test": "node --test"
+  }
+}
